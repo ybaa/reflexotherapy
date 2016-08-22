@@ -1,0 +1,22 @@
+body{
+	background-color: #ffffff;
+	color: #ffffff;
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	margin: 0;
+}
+
+#container{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header{
+	height: 145px;
+	background-color: #89c9ff;
+}	
+
+#logo{
+	margin-left: 250px;
+}
