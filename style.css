@@ -10,7 +10,7 @@ body{
 
 }
 .sliderek{
-
+	background-image: url("images/slide1.png");
 	width: 100%;
 
 
@@ -21,8 +21,8 @@ body{
 	margin-right: auto;
 	max-width: 1200px;
 	
-	background-size: 100%;
-	background-repeat: no-repeat;
+	/*background-size: 100%;
+	background-repeat: no-repeat;*/
 	border-bottom: solid 1px #909090;
 	border-left: solid 1px #909090;
 	border-right: solid 1px #909090;
