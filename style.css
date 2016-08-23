@@ -36,7 +36,7 @@ body{
 
 #logo{
 	margin-left: 8%;
-	margin-right: 25%;
+	margin-right: 20%;
 	padding-top: 10px;
 	float: left;
 
@@ -95,6 +95,7 @@ ol > li > ul > li{
 	position: relative;
 	z-index: 100;
 	border-top: 1px dashed #1A75DC;
+
 }
 ol > li > ul > li > a{
 	color: #000000;	
@@ -102,6 +103,7 @@ ol > li > ul > li > a{
 }
 ol > li > ul > li:hover{
 	background-color: #EF6D7E;
+
 }
 ol > li > ul > li:hover > a{
 	color: #ffffff;
@@ -111,10 +113,10 @@ ol > li > ul > li:hover > a{
 
 #quotation{
 	margin-left: 8%;
-	color: #000000;
+	color: #404040;
 	font-style: italic;
-	padding-top: 100px;
-	font-size: 24px;
+	padding-top: 80px;
+	font-size: 20px;
 }
 
 .topTile{
@@ -123,7 +125,7 @@ ol > li > ul > li:hover > a{
 	background-color: rgba(137,201,255,0.7);
 	margin-right: 10px;
 	margin-left: 10px;
-	margin-top: 146px;
+	margin-top: 90px;
 	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 10px;
