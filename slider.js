@@ -1,27 +1,3 @@
-/*var numberOfSlide = Math.floor(Math.random()*5)+1;
-
-
-	function hide(){
-		$("#sliderek").fadeOut(500);
-	}
-
-
-function changeSlide(){
-	numberOfSlide++;
-	if (numberOfSlide > 5)
-		numberOfSlide = 1;
-	var file = "<img src = \"simages/"+"slide"+numberOfSlide + ".png\"/>";
-	
-	document.getElementById("sliderek").innerHTML = file;
-	
-	$("#sliderek").fadeIn(500);
-
-	setTimeout("changeSlide()",5000);
-	setTimeout("hide()",4500);
-}
-
-*/
-
 
 
 $(document).ready(function(){
