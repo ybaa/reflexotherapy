@@ -296,3 +296,25 @@ h4{
 	width: 420px;
 	margin-top: 20px;
 }
+
+table{
+	text-align: center;
+	width: 200px;
+	margin-left: 180px;
+	line-height: 200%;
+	font-size: 18px;
+
+}
+#price{
+	width: 600px;
+	float: left;
+}
+#discount{
+	float: left;
+	width: 500px;
+}
+#discount img{
+	width: 360px;
+	margin-left: 40px;
+
+}
