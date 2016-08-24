@@ -281,3 +281,18 @@ h4{
 	font-size: 18px;
 	line-height: 150%;
 }
+
+#text2{
+	float: right;
+	width: 700px;
+	
+}
+#img2{
+	float: left;
+	margin-left: 40px;	
+}
+#img2 img{
+	margin-left:0px; 
+	width: 420px;
+	margin-top: 20px;
+}
