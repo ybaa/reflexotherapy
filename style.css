@@ -318,3 +318,15 @@ table{
 	margin-left: 40px;
 
 }
+#contact p{
+	text-align: center;
+	line-height: 100%;
+}
+#contact a{
+	color: #273849;
+	font-size: 18px;
+}
+#contact img{
+	margin-left: 440px;
+	
+}
